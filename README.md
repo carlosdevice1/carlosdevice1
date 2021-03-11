@@ -3,5 +3,5 @@
  
  
  <p align="center">
- <img width="300" height="300" src="assets/caneca.png">
+ <img width="979" height="682" src="assets/caneca.png">
                                                   
