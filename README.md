@@ -1,5 +1,7 @@
  
- 
+ <h1 align='center'>
+  Hi there 👋 I'm Carlos Jorge👨‍💻
+</h1>
  
  
  
@@ -7,7 +9,7 @@
  <p align="center">
  <img width="979" height="682" src="assets/foto.png">
                                                   
-
+  </p>
 
 
 
