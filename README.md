@@ -18,9 +18,7 @@
  
 ## used system ##
  
- 
-
- <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/e2b07e8d61b9624528d7cb65c9d3bd33a8c9ac84a166dae00c2cefe87dad37f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3737323935333f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578" />   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
  
  
  
