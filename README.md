@@ -3,14 +3,10 @@
   Hi there 👋 I'm Carlos Jorge👨‍💻
 </h1>
  
+ ![]( https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
  
  
  
- <p align="center">
- <img width="979" height="682" src="assets/foto.png">
-                                                  
-  </p>
-
 
 
  <a href="https://instagram.com/carlosdev_">
